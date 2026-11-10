@@ -1,0 +1,5 @@
+AUTH_GOOGLE_ID = "https://997277850748-i2jfr3hanmji2gsq63cag7igstd7tu21.apps.googleusercontent.com/"
+AUTH_GOOGLE_SECRECT = "GOCSPX-"
+AUTH_SECRET = "XqZInL3FrwOmgddYv83bToBT37yZ"
+AUTH_URL = "http://localhost:3000/"
+ALLOWED_EMAIL_DOMAINS = 'astranova.org,adastraschool.org
